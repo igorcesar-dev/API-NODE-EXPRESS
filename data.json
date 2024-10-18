@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1728491061074,
+      "name": "Igor César da Silva",
+      "age": 26,
+      "email": "igor@gmail.com"
+    },
+    {
+      "id": 1728491102007,
+      "name": "João Henrique Moura",
+      "age": 22,
+      "email": "joao@gmail.com"
+    },
+    {
+      "id": 1728491288070,
+      "name": "Mateus Silva Pereira",
+      "age": 32,
+      "email": "mateus@gmail.com"
+    },
+    {
+      "id": 1728491305718,
+      "name": "Marcos Lima Silva",
+      "age": 20,
+      "email": "marcos@gmail.com"
+    }
+  ]
+}
